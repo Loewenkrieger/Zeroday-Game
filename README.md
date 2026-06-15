@@ -1,84 +1,88 @@
 # Hacker Game
 
-> **Werde vom unbekannten Operator zur Legende der digitalen Unterwelt.**
+> **Rise from an unknown operator to a legend of the digital underground.**
 
-**Hacker Game** ist eine immersive, terminalbasierte Hacking-Simulation, in
-der du Netzwerke analysierst, Sicherheitslücken entdeckst und dich Schritt für
-Schritt an immer größere Ziele wagst. Statt einfacher Knopfdrücke erwarten dich
-echte Entscheidungen, sorgfältige Vorbereitung und das Gefühl, eine komplexe
-Operation selbst geplant und durchgeführt zu haben.
+**Hacker Game** is an immersive, terminal-based hacking simulation about
+studying networks, discovering vulnerabilities, and carefully planning your
+next operation.
 
-## Deine Karriere als Hacker
+There is no unnecessary 3D world to walk around in. You will not spend half
+your time running between mission markers or decorating a virtual apartment.
+Like a real hacker, you sit in front of your computer for hours without moving
+a single muscle while your terminal does all the exciting work.
 
-Du beginnst als unbekannter Operator mit begrenzten Werkzeugen und einfachen
-Aufträgen. Über geheime IRC-Kanäle findest du Kontakte, nimmst Missionen an und
-baust dir einen Ruf in der digitalen Unterwelt auf.
+Every command matters. Every mistake leaves a trace.
 
-Mit jedem erfolgreichen Auftrag verdienst du Credits und Reputation. Dadurch
-erhältst du Zugang zu exklusiveren Gruppen, besseren Werkzeugen und deutlich
-anspruchsvolleren Zielen. Aus kleinen Datendiebstählen werden umfangreiche
-Infiltrationen streng geschützter Firmennetzwerke.
+## Build Your Reputation
 
-## Plane deine Operation
+You begin as an unknown operator with limited tools and access to simple jobs.
+Through hidden IRC channels, you meet contacts, accept contracts, and slowly
+build your reputation within the digital underground.
 
-Jeder Auftrag verlangt eine eigene Vorgehensweise. Du sammelst Informationen,
-scannst Netzwerke und untersuchst erreichbare Systeme auf Schwachstellen.
-Anschließend suchst du auf dem digitalen Exploit-Markt **NullForge** nach dem
-passenden Werkzeug für dein Ziel.
+Successful operations earn credits and reputation. As your name becomes known,
+you gain access to exclusive groups, better tools, and increasingly dangerous
+targets. Small data thefts eventually turn into complex infiltrations of
+heavily protected corporate networks.
 
-Doch nicht jeder Angriff bleibt unbemerkt. Unpassende Exploits, aggressive
-Scans und unnötige Aktionen können Spuren hinterlassen. Wer erfolgreich sein
-will, muss Risiken abwägen, seine Ressourcen verwalten und im richtigen Moment
-handeln.
+## Plan Your Operation
 
-## Dringe tiefer in Netzwerke ein
+Every contract requires its own approach. Gather intelligence, scan networks,
+inspect reachable systems, and identify their weaknesses. Once you understand
+your target, search the **NullForge** exploit market for the right tool to
+breach it.
 
-Spätere Operationen führen dich in isolierte Unternehmensnetzwerke, die nicht
-direkt aus dem Internet erreichbar sind. Du kompromittierst öffentliche
-Edge-Server, nutzt sie als Pivot-Punkte und baust eigene Routen in verborgene
-Netzwerkbereiche auf.
+Careless actions have consequences. Incompatible exploits, aggressive scans,
+and unnecessary activity can expose your presence. Success depends on
+understanding the network, managing your limited resources, and knowing when to
+act quietly.
 
-Mit hochgeladenen Werkzeugen und selbst eingerichteten VPN-Tunneln verschaffst
-du dir Zugriff auf interne Systeme. Dort suchst du nach Missionsdaten, bewegst
-dich zwischen verschiedenen Geräten und versuchst, dein Ziel zu erreichen,
-bevor deine Aktivitäten entdeckt werden.
+## Infiltrate Entire Networks
 
-## Eine lebendige digitale Welt
+Advanced operations lead into isolated corporate networks that cannot be
+reached directly from the internet. Compromise public edge servers, turn them
+into pivot points, and create routes into hidden internal systems.
 
-Die Spielwelt wird von einem zentralen Server verwaltet. Netzwerke, Dateien,
-installierte Werkzeuge, aktive Verbindungen und dein Fortschritt bleiben
-erhalten und beeinflussen deine nächsten Schritte.
+Upload your tools, deploy VPN tunnels, move between compromised machines, and
+locate the files your client requested. Complete the objective before the
+company traces the intrusion back to you and cuts every active connection.
 
-Prozedural generierte Aufträge sorgen dafür, dass deine Karriere immer
-weitergeht. Neue Ziele, unterschiedliche Sicherheitsstufen und wachsende
-Herausforderungen verlangen ständig neue Strategien.
+## A Persistent Digital World
 
-## Geplante Features
+The game world is managed by a central server. Networks, files, installed
+tools, active connections, and player progress persist and influence every
+future operation.
 
-**Hacker Game befindet sich aktuell in aktiver Entwicklung.** Das bestehende
-Fundament wird kontinuierlich um neue Inhalte, Systeme und Möglichkeiten
-erweitert.
+Procedurally generated contracts keep your career moving forward. New targets,
+different security levels, and increasingly complex network layouts constantly
+force you to adapt your strategy.
 
-Für zukünftige Versionen sind unter anderem geplant:
+## Currently In Development
 
-- abwechslungsreichere Aufträge und größere Unternehmensnetzwerke
-- zusätzliche Exploits, Werkzeuge und Sicherheitsmechanismen
-- mehr Möglichkeiten zur Tarnung und zum Umgang mit aktiven Rückverfolgungen
-- eine lebendigere Untergrundwelt mit neuen Kontakten und Hacker-Gruppen
-- langfristiger Fortschritt und weitere Spezialisierungsmöglichkeiten
-- kooperative und kompetitive Multiplayer-Features
+> [!IMPORTANT]
+> **Hacker Game is currently in active development.** Features, content,
+> balancing, and presentation may change as the game continues to grow.
 
-Im Multiplayer sollen Spieler gemeinsame Operationen planen, Aufgaben während
-eines Angriffs aufteilen und Informationen oder Werkzeuge austauschen können.
-Langfristig sollen auch konkurrierende Hacker-Gruppen entstehen, die um
-Einfluss, Ressourcen und besonders wertvolle Ziele kämpfen.
+Planned additions include:
 
-## Dein Terminal. Deine Strategie. Dein Ruf.
+- more varied contracts and larger corporate networks
+- additional exploits, tools, and defensive security systems
+- deeper stealth and active trace-evasion mechanics
+- a more dynamic underground with new contacts and hacker groups
+- long-term progression and operator specialization
+- cooperative and competitive multiplayer features
 
-In **Hacker Game** zählt nicht, wie schnell du klicken kannst. Entscheidend ist,
-wie gut du ein System verstehst, deine Operation vorbereitest und auf
-unerwartete Situationen reagierst.
+Future multiplayer modes will allow players to plan operations together,
+divide responsibilities during an intrusion, and exchange intelligence or
+tools. Competing hacker groups are also planned, fighting for influence,
+resources, and the most valuable targets in the network.
 
-Baue dein Arsenal auf. Knüpfe Kontakte. Hinterlasse keine Spuren.
+## Your Terminal. Your Strategy. Your Reputation.
 
-**Wie weit wirst du gehen, um dir einen Namen zu machen?**
+**Hacker Game** is not about how quickly you can run across a map. It is about
+how well you understand a system, prepare your operation, and react when
+something goes wrong.
+
+Build your arsenal. Make connections. Leave no trace.
+
+**How far will you go to make a name for yourself without ever leaving your
+chair?**
